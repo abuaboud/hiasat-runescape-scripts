@@ -1,0 +1,60 @@
+package org.liquidscripts.tutisland;
+
+/**
+ * Created with IntelliJ IDEA.
+ * User: Magorium
+ * Date: 1/5/14
+ * Time: 11:22 AM
+ * To change this template use File | Settings | File Templates.
+ */
+public enum State {
+    WAITING,
+    OPEN_INVENTORY_TAB,
+    OPEN_DOOR,
+    TALK_TO_MAGIC,
+    OPEN_MAGIC_TAB,
+    ATTACK_CHICKEN,
+    CUT_TREE,
+    MAKE_FIRE,
+    BROTHER_BRACE,
+    OPEN_PRAYER_MENU,
+    OPEN_FRIEND_TAB,
+    OPEN_IGNORE_TAB,
+    TALK_TO_ADVICE,
+    NEXT_DOOR,
+    CLIMB_UP_LADDER,
+    TALK_TO_BANKER,
+    OPEN_GATE,
+    OPEN_SKILL_TAB,
+    CATCH_SHRIMPS,
+    OPEN_QUEST_TAB,
+    COOK_SHRIMPS,
+    OPEN_COMBAT,
+    ATTACK_RAT,
+    RANGE_RAT,
+    TALK_TO_SURVIVAL_EXPERT,
+    ENTER_CAVE,
+    TALK_TO_MINING,
+    UNQUIP_ITEMS,
+    PROSPECT_TIN,
+    MINING_TIN,
+    SHOW_EQUIPMENT_STATE,
+    SMITH_DAGGER,
+    TALK_TO_COMBAT,
+    OPEN_EQUIPMENT_TAB,
+    MINING_COPPER,
+    SMELT_BAR,
+    PROSPECT_COPPER,
+    OPEN_PLAYER_CONTROL,
+    TALK_TO_CHEF,
+    MAKE_DOUGH,
+    WEAR_DAGGER,
+    COOK_DOUGH,
+    OPEN_EMOTE_TAB,
+    DO_EMOTE,
+    DO_RUN,
+    DO_RUN_TO_QUEST,
+    TALK_TO_QUEST_GUIDE,
+    OPEN_MUSIC_TAB,
+    TALK_TO_RUNESCAPE;
+}
