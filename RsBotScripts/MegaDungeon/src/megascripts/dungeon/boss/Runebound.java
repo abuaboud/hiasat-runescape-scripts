@@ -17,7 +17,7 @@ import org.powerbot.game.api.methods.node.SceneEntities;
 import org.powerbot.game.api.wrappers.interactive.NPC;
 import org.powerbot.game.api.wrappers.node.SceneObject;
 
-import shadowscripts.graphic.LogHandler;
+import megascripts.graphic.LogHandler;
 
 
 public class Runebound extends Boss {

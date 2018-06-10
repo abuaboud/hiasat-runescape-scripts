@@ -26,14 +26,14 @@ import org.powerbot.game.api.wrappers.Area;
 import org.powerbot.game.api.wrappers.Tile;
 import org.powerbot.game.api.wrappers.node.SceneObject;
 
-import shadowscripts.graphic.LogHandler;
+import megascripts.graphic.LogHandler;
 
 
 public class Back extends Door{
 
 	@Override
 	public String getAuthor() {
-		return "ShadowFiend";
+		return "Magorium";
 	}
 
 	@Override

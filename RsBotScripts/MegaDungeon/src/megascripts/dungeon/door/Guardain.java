@@ -4,7 +4,6 @@ import java.awt.Color;
 import java.awt.Point;
 
 import megascripts.api.Calc;
-import megascripts.api.Flood;
 import megascripts.api.currRoom;
 import megascripts.api.ulits;
 import megascripts.api.myplayer.MyActions;
@@ -13,7 +12,6 @@ import megascripts.api.plugin.Door;
 import megascripts.dungeon.Constants;
 import megascripts.dungeon.ShadowDungeon;
 import megascripts.dungeon.node.Dungeon_Doors;
-import megascripts.dungeon.node.Room_Job;
 
 import org.powerbot.core.script.job.Task;
 import org.powerbot.game.api.methods.Calculations;
@@ -26,14 +24,12 @@ import org.powerbot.game.api.wrappers.Area;
 import org.powerbot.game.api.wrappers.Tile;
 import org.powerbot.game.api.wrappers.node.SceneObject;
 
-import shadowscripts.graphic.LogHandler;
-
 
 public class Guardain extends Door {
 
 	@Override
 	public String getAuthor() {
-		return "ShadowFiend";
+		return "Magorium";
 	}
 
 	@Override

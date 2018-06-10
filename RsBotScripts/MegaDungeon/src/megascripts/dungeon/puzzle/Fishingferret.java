@@ -8,7 +8,6 @@ import java.util.LinkedList;
 import java.util.Set;
 
 
-import megascripts.api.Calc;
 import megascripts.api.Flood;
 import megascripts.api.LocalPathCustom;
 import megascripts.api.currRoom;
@@ -18,7 +17,6 @@ import megascripts.api.myplayer.MyPlayer;
 import megascripts.api.plugin.Puzzle;
 import megascripts.dungeon.Constants;
 import megascripts.dungeon.ShadowDungeon;
-import megascripts.dungeon.node.Dungeon_Doors;
 
 import org.powerbot.core.script.job.Task;
 import org.powerbot.game.api.methods.Calculations;
@@ -40,8 +38,6 @@ import org.powerbot.game.api.wrappers.map.Path.TraversalOption;
 import org.powerbot.game.api.wrappers.map.TilePath;
 import org.powerbot.game.api.wrappers.node.GroundItem;
 import org.powerbot.game.api.wrappers.node.SceneObject;
-
-import shadowscripts.graphic.LogHandler;
 
 /**
  * 

@@ -9,8 +9,6 @@ import org.powerbot.game.api.methods.Tabs;
 import org.powerbot.game.api.methods.Widgets;
 import org.powerbot.game.api.wrappers.widget.WidgetChild;
 
-import shadowscripts.graphic.LogHandler;
-
 /**
  * 
  * @author Magorium

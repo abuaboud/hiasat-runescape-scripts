@@ -6,15 +6,12 @@ import java.awt.Point;
 import javax.swing.plaf.basic.BasicSliderUI.ActionScroller;
 
 
-import megascripts.api.Calc;
 import megascripts.api.Shop;
 import megascripts.api.ulits;
 import megascripts.api.myplayer.MyActions;
 import megascripts.api.myplayer.MyArmor;
 import megascripts.api.myplayer.MyGroundItems;
 import megascripts.api.myplayer.MyItems;
-import megascripts.api.myplayer.MyPlayer;
-import megascripts.api.myplayer.MyPrayer;
 import megascripts.dungeon.*;
 
 import org.powerbot.core.script.job.Task;
@@ -33,8 +30,6 @@ import org.powerbot.game.api.methods.widget.Camera;
 import org.powerbot.game.api.util.Timer;
 import org.powerbot.game.api.wrappers.node.GroundItem;
 import org.powerbot.game.api.wrappers.node.SceneObject;
-
-import shadowscripts.graphic.LogHandler;
 
 public class Loot_StartRoom extends Node {
 

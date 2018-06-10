@@ -16,7 +16,7 @@ import org.powerbot.game.api.methods.tab.Inventory;
 import org.powerbot.game.api.wrappers.node.GroundItem;
 import org.powerbot.game.api.wrappers.widget.WidgetChild;
 
-import shadowscripts.graphic.LogHandler;
+import megascripts.graphic.LogHandler;
 
 public class MyArmor {
 

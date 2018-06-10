@@ -33,7 +33,7 @@ import org.powerbot.game.api.wrappers.map.LocalPath.Vertex;
 import org.powerbot.game.api.wrappers.map.Path.TraversalOption;
 import org.powerbot.game.api.wrappers.node.SceneObject;
 
-import shadowscripts.graphic.LogHandler;
+import megascripts.graphic.LogHandler;
 
 public class ToxinMaze extends Puzzle{
 

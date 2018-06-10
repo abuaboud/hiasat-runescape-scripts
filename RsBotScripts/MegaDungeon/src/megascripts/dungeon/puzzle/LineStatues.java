@@ -6,14 +6,12 @@ import java.util.Collections;
 
 
 import megascripts.api.Calc;
-import megascripts.api.myplayer.MyActions;
 import megascripts.api.myplayer.MyItems;
 import megascripts.api.myplayer.MyNpc;
 import megascripts.api.myplayer.MyObjects;
 import megascripts.api.myplayer.MyPlayer;
 import megascripts.api.plugin.Puzzle;
 import megascripts.dungeon.ShadowDungeon;
-import megascripts.dungeon.node.Dungeon_Doors;
 
 import org.powerbot.core.script.job.Task;
 import org.powerbot.game.api.methods.Calculations;
@@ -28,8 +26,6 @@ import org.powerbot.game.api.wrappers.Tile;
 import org.powerbot.game.api.wrappers.interactive.NPC;
 import org.powerbot.game.api.wrappers.node.SceneObject;
 import org.powerbot.game.api.wrappers.widget.WidgetChild;
-
-import shadowscripts.graphic.LogHandler;
 
 /**
  * 

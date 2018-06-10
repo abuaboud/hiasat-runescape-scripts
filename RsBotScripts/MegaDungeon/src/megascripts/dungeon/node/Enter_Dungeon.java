@@ -27,8 +27,6 @@ import org.powerbot.game.api.wrappers.Tile;
 import org.powerbot.game.api.wrappers.node.SceneObject;
 import org.powerbot.game.api.wrappers.widget.WidgetChild;
 
-import shadowscripts.graphic.LogHandler;
-
 public class Enter_Dungeon extends Node{
 
 	public static int ENTERANCE_GATE = 48496;

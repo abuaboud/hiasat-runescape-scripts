@@ -3,15 +3,12 @@ package megascripts.dungeon.puzzle;
 import java.awt.Color;
 
 
-import megascripts.api.Calc;
 import megascripts.api.ulits;
 import megascripts.api.myplayer.MyGroundItems;
 import megascripts.api.myplayer.MyItems;
 import megascripts.api.myplayer.MyObjects;
 import megascripts.api.plugin.Puzzle;
-import megascripts.dungeon.Constants;
 import megascripts.dungeon.ShadowDungeon;
-import megascripts.dungeon.node.Loot_StartRoom;
 
 import org.powerbot.core.script.job.Task;
 import org.powerbot.game.api.methods.Calculations;
@@ -22,8 +19,6 @@ import org.powerbot.game.api.methods.node.SceneEntities;
 import org.powerbot.game.api.methods.widget.Camera;
 import org.powerbot.game.api.wrappers.node.GroundItem;
 import org.powerbot.game.api.wrappers.node.SceneObject;
-
-import shadowscripts.graphic.LogHandler;
 
 public class UnhappyGhost extends Puzzle{
 

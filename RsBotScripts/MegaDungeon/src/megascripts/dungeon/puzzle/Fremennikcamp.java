@@ -16,8 +16,6 @@ import org.powerbot.game.api.methods.node.SceneEntities;
 import org.powerbot.game.api.methods.widget.Camera;
 import org.powerbot.game.api.wrappers.node.SceneObject;
 
-import shadowscripts.graphic.LogHandler;
-
 public class Fremennikcamp extends Puzzle {
 
 	public static final int[] Bar_Box = { 49529, 49530 };

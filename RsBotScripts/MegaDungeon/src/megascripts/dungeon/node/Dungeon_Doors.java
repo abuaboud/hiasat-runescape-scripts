@@ -6,8 +6,6 @@ import java.awt.Toolkit;
 import java.util.ArrayList;
 
 
-
-import megascripts.api.Calc;
 import megascripts.api.Flood;
 import megascripts.api.Shop;
 import megascripts.api.currRoom;
@@ -57,8 +55,7 @@ import org.powerbot.game.api.wrappers.widget.WidgetChild;
 import org.powerbot.game.bot.Context;
 import org.powerbot.game.client.Client;
 
-import shadowscripts.graphic.LogEntry;
-import shadowscripts.graphic.LogHandler;
+import megascripts.graphic.LogHandler;
 
 public class Dungeon_Doors extends Node {
 

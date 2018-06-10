@@ -23,8 +23,6 @@ import org.powerbot.game.api.wrappers.interactive.NPC;
 import org.powerbot.game.api.wrappers.node.SceneObject;
 import org.powerbot.game.api.wrappers.widget.WidgetChild;
 
-import shadowscripts.graphic.LogHandler;
-
 
 /**
  * 

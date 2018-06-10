@@ -1,15 +1,12 @@
 package megascripts.dungeon.boss;
 
 
-import megascripts.api.Calc;
 import megascripts.api.Combat;
 import megascripts.api.Flood;
 import megascripts.api.ulits;
 import megascripts.api.myplayer.MyNpc;
 import megascripts.api.myplayer.MyPlayer;
 import megascripts.api.myplayer.MyPrayer;
-import megascripts.api.myplayer.MyPrayer.Ancient;
-import megascripts.api.myplayer.MyPrayer.Modern;
 import megascripts.api.plugin.Boss;
 import megascripts.dungeon.ShadowDungeon;
 
@@ -24,8 +21,6 @@ import org.powerbot.game.api.methods.widget.Camera;
 import org.powerbot.game.api.util.Time;
 import org.powerbot.game.api.wrappers.interactive.NPC;
 import org.powerbot.game.api.wrappers.node.SceneObject;
-
-import shadowscripts.graphic.LogHandler;
 
 public class Shadow  extends Boss{
 

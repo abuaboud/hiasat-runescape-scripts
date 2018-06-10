@@ -6,7 +6,6 @@ import java.util.Collections;
 
 
 import megascripts.api.Calc;
-import megascripts.api.Flood;
 import megascripts.api.ulits;
 import megascripts.api.plugin.Puzzle;
 import megascripts.dungeon.Constants;
@@ -20,8 +19,6 @@ import org.powerbot.game.api.methods.node.SceneEntities;
 import org.powerbot.game.api.methods.widget.Camera;
 import org.powerbot.game.api.util.Filter;
 import org.powerbot.game.api.wrappers.node.SceneObject;
-
-import shadowscripts.graphic.LogHandler;
 
 public class FlowerRoot extends Puzzle{
 	

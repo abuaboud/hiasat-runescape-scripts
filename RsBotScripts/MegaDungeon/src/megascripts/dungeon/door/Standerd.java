@@ -28,7 +28,7 @@ public class Standerd extends Door {
 
 	@Override
 	public String getAuthor() {
-		return "ShadowFiend";
+		return "Magorium";
 	}
 
 	@Override

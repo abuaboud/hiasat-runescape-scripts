@@ -5,14 +5,11 @@ import java.awt.Color;
 
 import megascripts.api.Calc;
 import megascripts.api.Combat;
-import megascripts.api.Flood;
 import megascripts.api.ulits;
-import megascripts.api.myplayer.MyActions;
 import megascripts.api.myplayer.MyItems;
 import megascripts.api.myplayer.MyObjects;
 import megascripts.api.myplayer.MyPlayer;
 import megascripts.api.plugin.Puzzle;
-import megascripts.dungeon.Constants;
 import megascripts.dungeon.ShadowDungeon;
 
 import org.powerbot.core.script.job.Task;
@@ -23,8 +20,6 @@ import org.powerbot.game.api.methods.node.SceneEntities;
 import org.powerbot.game.api.methods.tab.Inventory;
 import org.powerbot.game.api.methods.widget.Camera;
 import org.powerbot.game.api.wrappers.node.SceneObject;
-
-import shadowscripts.graphic.LogHandler;
 
 public class DamagedBridge extends Puzzle {
 

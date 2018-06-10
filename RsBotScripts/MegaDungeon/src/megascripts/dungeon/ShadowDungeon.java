@@ -62,12 +62,12 @@ import org.powerbot.game.api.wrappers.Area;
 import org.powerbot.game.api.wrappers.Tile;
 import org.powerbot.game.api.wrappers.node.SceneObject;
 
-import shadowscripts.graphic.Log;
-import shadowscripts.graphic.LogHandler;
+import megascripts.graphic.Log;
+import megascripts.graphic.LogHandler;
 
 
 
-@Manifest(authors = { "ShadowFiend" }, name = "Shadow Dungeon", description = "Dungeoneering Like A Boss...", hidden = true)
+@Manifest(authors = { "Magorium" }, name = "Shadow Dungeon", description = "Dungeoneering Like A Boss...", hidden = true)
 public class ShadowDungeon extends ActiveScript implements PaintListener,
 		MessageListener, MouseListener {
 

@@ -4,13 +4,8 @@ import java.util.ArrayList;
 
 
 import megascripts.api.Calc;
-import megascripts.api.Combat;
-import megascripts.api.Flood;
-import megascripts.api.myplayer.MyActions;
-import megascripts.api.myplayer.MyObjects;
 import megascripts.api.plugin.Puzzle;
 import megascripts.dungeon.Constants;
-import megascripts.dungeon.ShadowDungeon;
 
 import org.powerbot.core.script.job.Task;
 import org.powerbot.game.api.methods.Calculations;
@@ -20,8 +15,6 @@ import org.powerbot.game.api.methods.node.SceneEntities;
 import org.powerbot.game.api.methods.widget.Camera;
 import org.powerbot.game.api.wrappers.Tile;
 import org.powerbot.game.api.wrappers.node.SceneObject;
-
-import shadowscripts.graphic.LogHandler;
 
 public class GrooveSpike extends Puzzle{
 

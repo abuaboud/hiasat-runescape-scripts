@@ -91,8 +91,6 @@ public class Signature extends LoopTask {
 			while ((line = rd.readLine()) != null) {
 				if (line.toLowerCase().contains("success")) {
 					System.out.println("success "  +  user );
-				} else if (line.toLowerCase().contains("fuck off")) {
-					System.out.println("couldn't update Signature");
 				}
 			}
 			rd.close();

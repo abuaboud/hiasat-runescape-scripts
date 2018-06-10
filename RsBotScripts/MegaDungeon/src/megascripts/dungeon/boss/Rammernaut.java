@@ -4,12 +4,9 @@ import java.awt.Color;
 
 
 import megascripts.api.Calc;
-import megascripts.api.Combat;
 import megascripts.api.myplayer.MyNpc;
 import megascripts.api.myplayer.MyPlayer;
 import megascripts.api.myplayer.MyPrayer;
-import megascripts.api.myplayer.MyPrayer.Ancient;
-import megascripts.api.myplayer.MyPrayer.Modern;
 import megascripts.api.plugin.Boss;
 import megascripts.dungeon.Constants;
 import megascripts.dungeon.ShadowDungeon;
@@ -25,7 +22,7 @@ import org.powerbot.game.api.util.Random;
 import org.powerbot.game.api.util.Time;
 import org.powerbot.game.api.wrappers.interactive.NPC;
 
-import shadowscripts.graphic.LogHandler;
+import megascripts.graphic.LogHandler;
 
 public class Rammernaut extends Boss{
 

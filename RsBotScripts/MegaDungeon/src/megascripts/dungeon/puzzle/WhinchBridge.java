@@ -4,7 +4,6 @@ import java.awt.Color;
 
 
 import megascripts.api.Calc;
-import megascripts.api.Flood;
 import megascripts.api.myplayer.MyActions;
 import megascripts.api.myplayer.MyItems;
 import megascripts.api.myplayer.MyObjects;
@@ -13,7 +12,6 @@ import megascripts.api.plugin.Puzzle;
 import megascripts.dungeon.Constants;
 import megascripts.dungeon.ShadowDungeon;
 import megascripts.dungeon.door.Back;
-import megascripts.dungeon.node.Dungeon_Doors;
 import megascripts.dungeon.node.Room_Job;
 
 import org.powerbot.core.script.job.Task;
@@ -26,8 +24,6 @@ import org.powerbot.game.api.methods.tab.Inventory;
 import org.powerbot.game.api.methods.widget.Camera;
 import org.powerbot.game.api.util.Time;
 import org.powerbot.game.api.wrappers.node.SceneObject;
-
-import shadowscripts.graphic.LogHandler;
 
 public class WhinchBridge extends Puzzle{
 

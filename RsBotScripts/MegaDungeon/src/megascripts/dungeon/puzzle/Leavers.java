@@ -6,18 +6,13 @@ import java.util.Collections;
 
 
 import megascripts.api.Calc;
-import megascripts.api.Flood;
-import megascripts.api.currRoom;
 import megascripts.api.ulits;
 import megascripts.api.myplayer.MyActions;
 import megascripts.api.myplayer.MyObjects;
-import megascripts.api.myplayer.MyPlayer;
 import megascripts.api.plugin.Door;
 import megascripts.api.plugin.Puzzle;
-import megascripts.dungeon.Constants;
 import megascripts.dungeon.ShadowDungeon;
 import megascripts.dungeon.door.Back;
-import megascripts.dungeon.node.Dungeon_Doors;
 import megascripts.dungeon.node.Room_Job;
 
 import org.powerbot.core.script.job.Task;
@@ -30,8 +25,6 @@ import org.powerbot.game.api.methods.node.SceneEntities;
 import org.powerbot.game.api.methods.widget.Camera;
 import org.powerbot.game.api.wrappers.Tile;
 import org.powerbot.game.api.wrappers.node.SceneObject;
-
-import shadowscripts.graphic.LogHandler;
 
 public class Leavers extends Puzzle{
 

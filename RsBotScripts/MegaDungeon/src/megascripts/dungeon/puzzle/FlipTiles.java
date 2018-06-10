@@ -15,8 +15,6 @@ import org.powerbot.game.api.methods.node.SceneEntities;
 import org.powerbot.game.api.wrappers.Tile;
 import org.powerbot.game.api.wrappers.node.SceneObject;
 
-import shadowscripts.graphic.LogHandler;
-
 public class FlipTiles extends Puzzle {
 
 	public static int Green[] = { 49638, 49639, 49640, 54065 };

@@ -10,11 +10,9 @@ import java.util.Map;
 
 import megascripts.api.Calc;
 import megascripts.api.ulits;
-import megascripts.api.myplayer.MyActions;
 import megascripts.api.myplayer.MyObjects;
 import megascripts.api.plugin.Puzzle;
 import megascripts.dungeon.ShadowDungeon;
-import megascripts.dungeon.node.Dungeon_Doors;
 
 import org.powerbot.core.script.job.Task;
 import org.powerbot.game.api.methods.Calculations;
@@ -26,7 +24,7 @@ import org.powerbot.game.api.methods.widget.Camera;
 import org.powerbot.game.api.wrappers.Tile;
 import org.powerbot.game.api.wrappers.node.SceneObject;
 
-import shadowscripts.graphic.LogHandler;
+import megascripts.graphic.LogHandler;
 
 public class CrystalPower extends Puzzle {
 

@@ -25,7 +25,6 @@ import megascripts.dungeon.boss.SkeletalHorde;
 import megascripts.dungeon.door.Back;
 import megascripts.dungeon.puzzle.CurrentPuzzle;
 import megascripts.dungeon.puzzle.Enigmatic;
-import megascripts.dungeon.puzzle.Magicalconstruct;
 import megascripts.dungeon.puzzle.Monolith;
 import megascripts.dungeon.puzzle.Pondskaters;
 import megascripts.dungeon.puzzle.SilidingStatues;
@@ -57,8 +56,8 @@ import org.powerbot.game.api.wrappers.node.SceneObject;
 import org.powerbot.game.api.wrappers.widget.Widget;
 import org.powerbot.game.api.wrappers.widget.WidgetChild;
 
-import shadowscripts.graphic.Log;
-import shadowscripts.graphic.LogHandler;
+import megascripts.graphic.Log;
+import megascripts.graphic.LogHandler;
 
 public class Room_Job extends Node {
 

@@ -34,8 +34,6 @@ import org.powerbot.game.api.wrappers.node.Item;
 import org.powerbot.game.api.wrappers.node.SceneObject;
 import org.powerbot.game.api.wrappers.widget.WidgetChild;
 
-import shadowscripts.graphic.LogHandler;
-
 public class ColouredRecess extends Puzzle {
 
 	public static final int[] BLUE_TILES = { 54504, 54546, 54623, 56060 },
