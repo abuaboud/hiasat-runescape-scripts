@@ -16,7 +16,7 @@ This is an uncompleted script to level-up dungeoneering skill where there is a l
 ## EpicBot Scripts
 
 ###### Epicbot  require script to be single file so code is little bit messy 
-##### Pro Soul Wars (2013 January)
+### Pro Soul Wars (2013 January)
 "Soul Wars is a team minigame that lasts twenty minutes per game and can be played on any world. In Soul Wars, two opposing teams compete against each other to gather soul fragments and offer them to the Soul obelisk in order to weaken, and ultimately defeat, each other's avatars through combat. " - [Runescape Wiki](http://runescape.wikia.com/wiki/Soul_Wars) 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Y-yfZL0yK8I/0.jpg)](http://www.youtube.com/watch?v=Y-yfZL0yK8I)
