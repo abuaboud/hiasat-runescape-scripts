@@ -27,7 +27,7 @@ This is an uncompleted script to level-up dungeoneering skill where there is a l
 
 ##### Progress Reports:
 ##### 5 Hour:
-![alt text](https://raw.githubusercontent.com/Hiasat/HiasatScripts/master/proslayer_progress.png.png)
+![alt text](https://raw.githubusercontent.com/Hiasat/HiasatScripts/master/proslayer_progress.png)
 
 
 ##### Pro Magic Training Arena (2013 February)
